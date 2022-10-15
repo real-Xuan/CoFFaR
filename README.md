@@ -1,4 +1,4 @@
-# Center Loss Pytorch Implementation for low resolution dataset.
+# CoFFaR Pytorch Implementation for low resolution dataset.
 
 ### Dataset
 [QMUL-Survface Dataset](https://qmul-survface.github.io/)
